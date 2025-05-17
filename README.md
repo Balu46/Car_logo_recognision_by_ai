@@ -16,4 +16,3 @@ A deep learning system that identifies car manufacturer logos from images. Built
 | Model Architecture | Custom CNN + ResNet backbone |
 | Training | Mixed Precision, LR Scheduling |
 
-## 📂 Repository Structure
